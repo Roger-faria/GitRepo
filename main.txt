@@ -1,4 +1,3 @@
 Este é o meu primeiro arquivo.
-<<<<<<< HEAD
 Criação da Branch develop.
 Add a Branch QA.
